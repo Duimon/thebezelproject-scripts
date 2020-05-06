@@ -9,7 +9,7 @@ This project makes use of some 3rd party utilities.
 and
 * “gsar.exe” [(general search and replace utility)](http://gnuwin32.sourceforge.net/packages/gsar.htm)
 
-It also assumes you are using a version of Windows that has **"sort.exe"** in the system32 folder. (Windows 7 and up.)
+It also assumes you are using a version of Windows that has **"sort.exe"** in the system32 folder.
 
 There is quite a bit of setup required to use these scripts, but after doing it once it gets easy😉. I will assume you have a working retroarch setup and are successfully using the HSM Shader. Thebezelproject requires a standard “no-intro” named romset.
 
