@@ -21,7 +21,7 @@ There is quite a bit of setup required to use these scripts, but after doing it 
 
 Retroarch\images\PSX\
 
-**5.** Copy the downloaded images from **“ Retroarch-thebezelproject\Overlays\GameBezels\PSX\”** to your prepared images folder at **”Retroarch\images\PSX\”**. You will notice that thebezelproject downloader also downloaded default overlays at **“Retroarch-thebezelproject\Overlays\GameBezels\”**. Copy the **“Sony-PlayStation.png”** to your PSX folder and rename it to **“placeholder.png”**. Repeat this for every system you plan on converting.
+**5.** Copy the downloaded images from **“Retroarch-thebezelproject\Overlays\GameBezels\PSX\”** to your prepared images folder at **”Retroarch\images\PSX\”**. You will notice that thebezelproject downloader also downloaded default overlays at **“Retroarch-thebezelproject\Overlays\GameBezels\”**. Copy the **“Sony-PlayStation.png”** to your PSX folder and rename it to **“placeholder.png”**. Repeat this for every system you plan on converting.
 
 **6.** Run retroarch and install your chosen Playstation core. These instructions will assume **”Beetle PSX HW”**. Load the core and some content. Load your chosen HSM shader. Adjust at least one shader parameter. Since the scripts require it, I recommend you go ahead and make these adjustments now:
 
