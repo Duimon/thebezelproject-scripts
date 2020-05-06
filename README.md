@@ -25,9 +25,12 @@ Retroarch\images\PSX\
 
 **6.** Run retroarch and install your chosen Playstation core. These instructions will assume **”Beetle PSX HW”**. Load the core and some content. Load your chosen HSM shader. Adjust at least one shader parameter. Since the scripts and instructions require it, I recommend you go ahead and make these adjustments now:
 
-* [BG IMAGE] Scale Mode – 0:Auto 1:Fullscreen 2:Fit Height	= 1.00 
+* [SCALING] Integer Scale Mode - 0:Off, 1-ShortAxis, 2-BothAxes  = 0.00
 
 _(Not required by the scripts. If you choose a different value then in step **"8."** you will need to adjust the **"[SCALING] Int Scale Border Min Height %"** instead of the Non-Integer)_
+* [BG IMAGE] Scale Mode – 0:Auto 1:Fullscreen 2:Fit Height	= 1.00
+
+_(Also not required by the scripts but just makes sense if you are using thebezelproject graphics)_
 * [BEZEL & FRAME COLOR] Color Hue 				= 0.00
 * [BEZEL & FRAME COLOR] Color Saturation			= 0.00
 * [BEZEL & FRAME COLOR] Color Value (Brightness		= 10.00
