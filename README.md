@@ -35,8 +35,11 @@ Save a core preset.
 **7.** Edit the core preset at **” RetroArch\shaders\presets\Beetle PSX HW\Beetle PSX HW.slangp”**
 
 Change the line 
+
 BackgroundImage = "../../shaders_slang/crt/shaders/hyperspacemadness/textures/BackgroundImage_3840x2160.png"
+
 to
+
 BackgroundImage = "../../../images/PSX/placeholder.png"
 
 
