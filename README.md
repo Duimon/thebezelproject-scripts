@@ -10,5 +10,7 @@ and
 * “gsar.exe” [(general search and replace utility)](http://gnuwin32.sourceforge.net/packages/gsar.htm)
 
 There is quite a bit of setup required to use these scripts.
+
 **1.** Create a temporary installation of Retroarch. Thebezelproject Windows installer will overwrite some key files and break your Retroarch configuration.
+
 **2.** Download [thebezelproject Windows installer.]( https://github.com/thebezelproject/BezelProject-Windows)
