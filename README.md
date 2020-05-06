@@ -59,7 +59,7 @@ The rest of the scripts just generate different colored bezels based on the colo
 
 When you are finished with the scripts (Either after the first script or all 5 of them), just move all of the generated **“*.slangp”** to your **”Beetle PSX HW”** preset folder and you are done.
 
-You can delete the **”_Beetle PSX HW.slangpOLD”** and repeat the process for all of your systems.
+You can delete the extra files (leaving only your *.PNGs) and repeat the process for all of your systems.
 
 The comments in the **”3.cmd”** script explain how to choose which color you use for the creation of the presets. By default, it uses the second to the least used color in the palette. You can play with this if you’re fussy 😊.
 
