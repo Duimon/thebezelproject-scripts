@@ -46,7 +46,7 @@ BackgroundImage = "../../../images/PSX/placeholder.png"
 
 **9.** Copy the scripts from my repo to your PSX images folder. Replace the **”_Beetle PSX HW.slangp”** with your preset. (Copy your preset to the folder instead of moving it, it will be used as a default in case thebezelproject doesn’t have a graphic for one or more of your ROMs. Make sure it is named **”_Beetle PSX HW.slangp”**) (Use this slangp name when repeating this process for all your systems at this point, it will keep you from needing to edit any scripts)
 
-**10.** Execute the 1st script **1.cmd”**.
+**10.** Execute the 1st script **”1.cmd”**.
 
 The rest of the scripts just generate different colored bezels based on the color pallet of each thebezelproject graphics. If you choose to execute the rest of the scripts, keep in mind that some are doing quite a bit of work, and can take some time, especially for large numbers of graphics like the PSX set. Be patient and don’t forget what script you are running. Run them in order 1 - 5.
 
