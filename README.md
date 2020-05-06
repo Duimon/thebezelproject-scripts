@@ -23,9 +23,9 @@ Retroarch\images\PSX\
 
 **5.** Copy the downloaded images from **“Retroarch-thebezelproject\Overlays\GameBezels\PSX\”** to your prepared images folder at **”Retroarch\images\PSX\”**. You will notice that thebezelproject downloader also downloaded default overlays at **“Retroarch-thebezelproject\Overlays\”**. Copy the **“Sony-PlayStation.png”** to your PSX folder and rename it to **“placeholder.png”**. Repeat this for every system you plan on converting.
 
-**6.** Run retroarch and install your chosen Playstation core. These instructions will assume **”Beetle PSX HW”**. Load the core and some content. Load your chosen HSM shader. Adjust at least one shader parameter. Since the scripts require it, I recommend you go ahead and make these adjustments now:
+**6.** Run retroarch and install your chosen Playstation core. These instructions will assume **”Beetle PSX HW”**. Load the core and some content. Load your chosen HSM shader. Adjust at least one shader parameter. Since the scripts and instructions require it, I recommend you go ahead and make these adjustments now:
 
-* [BG IMAGE] Scale Mode – 0:Auto 1:Fullscreen 2:Fit Height	= 1.00
+* [BG IMAGE] Scale Mode – 0:Auto 1:Fullscreen 2:Fit Height	= 1.00 (Not required by the scripts. If you choose a different value then in step **"8."** you will need to adjust the **"[SCALING] Int Scale Border Min Height %"** instead of the Non-Integer)
 * [BEZEL & FRAME COLOR] Color Hue 				= 0.00
 * [BEZEL & FRAME COLOR] Color Saturation			= 0.00
 * [BEZEL & FRAME COLOR] Color Value (Brightness		= 10.00
@@ -42,7 +42,7 @@ to
 
 BackgroundImage = "../../../images/PSX/placeholder.png"
 
-**8.** Run retroarch from with your content and adjust the shader parameters to your liking, making sure to use the **[SCALING} Non-Integer Scale %** parameter  to cover the bezel in the existing graphic. Save a core preset.
+**8.** Run retroarch from with your content and adjust the shader parameters to your liking, making sure to use the **[SCALING] Non-Integer Scale %** parameter  to cover the bezel in the existing graphic. Save a core preset.
 
 **9.** Copy the scripts from my repo to your PSX images folder. Replace the **”_Beetle PSX HW.slangp”** with your preset. (Copy your preset to the folder instead of moving it, it will be used as a default in case thebezelproject doesn’t have a graphic for one or more of your ROMs. Make sure it is named **”_Beetle PSX HW.slangp”**) (Use this slangp name when repeating this process for all your systems at this point, it will keep you from needing to edit any scripts)
 
