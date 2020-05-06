@@ -54,7 +54,7 @@ When you are finished with the scripts (Either after the first script or all 5 o
 
 You can delete the **”_Beetle PSX HW.slangpOLD”** and repeat the process for all of your systems.
 
-The comments in the **”3.cmd”** script explain how to choose which color you use for the creation of the presets. By default, it uses the second to the least used color in the pallet. You can play with this if you’re fussy 😊.
+The comments in the **”3.cmd”** script explains how to choose which color you use for the creation of the presets. By default, it uses the second to the least used color in the pallet. You can play with this if you’re fussy 😊.
 
 ## Script Explanation
 What these scripts do is search for a line of code in your preset and replace it with the name of each *.png, then outputs a *.slangp file with the same name as the *.png. Then each image is conveted to a temporary image that is cropped, flattened, and dithered to 5 colors. Next, They produce an image histogram that lists each color in order from least used to most used. The RGB value of the second to least used color used is extracted and converted to an HSV value. This HSV value is then used to edit each *.slangp so the bezel has the corresponding HSV value. 
