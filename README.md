@@ -11,7 +11,7 @@ and
 
 There is quite a bit of setup required to use these scripts, but after doing it once it gets easy😉. I will assume you have a working retroarch setup and are successfully using the HSM Shader. Thebezelproject requires a standard “no-intro” named romset.
 
-**1.** Create a temporary installation of Retroarch by copying your existing “working” retroarch folder to a temporary location. (We will never actually run retroarch frfrom the temporary installation) Thebezelproject Windows installer will overwrite some key files and break your Retroarch configuration. For these instructions we will assume a temporary installation of **“Retroarch-thebezelproject”**.
+**1.** Create a temporary installation of Retroarch by copying your existing “working” retroarch folder to a temporary location. (We will never actually run retroarch from the temporary installation) Thebezelproject Windows installer will overwrite some key files and break your Retroarch configuration. For these instructions we will assume a temporary installation of **“Retroarch-thebezelproject”**.
 
 **2.** Download [thebezelproject Windows installer.]( https://github.com/thebezelproject/BezelProject-Windows)
 
