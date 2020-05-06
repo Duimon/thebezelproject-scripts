@@ -1,7 +1,7 @@
 # thebezelproject-scripts
 Scripts to create shader presets for the HSM Mega Bezel Reflection Shader using thebezelproject graphics
 
-## Instructions
+## Prerequisites
 
 This project makes use of some 3rd party utilities.
 * “convert.exe” from [ImageMagick](https://imagemagick.org/index.php)
@@ -10,7 +10,8 @@ and
 * “gsar.exe” [(general search and replace utility)](http://gnuwin32.sourceforge.net/packages/gsar.htm)
 
 It also assumes you are using a version of Windows that has **"sort.exe"** in the system32 folder, and that you have Python istalled at **"%LOCALAPPDATA%\Programs\Python\Python35-32\python.exe"** If you have to install Python and/or it has a different path, you will need to edit the script **"_4.cmd"** to reflect your path.
-##
+
+###### Instructions
 
 There is quite a bit of setup required to use these scripts, but after doing it once it gets easy😉. I will assume you have a working retroarch setup and are successfully using the HSM Shader. Thebezelproject requires a standard “no-intro” named romset.
 
