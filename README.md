@@ -19,4 +19,7 @@ There is quite a bit of setup required to use these scripts.
 
 **4.** For ease of use I recommend creating an “images” directory within the Retroarch root directory and subdirectories for each system. For these instructions we will assume a folder structure of…
 
-Retroarch\images\Playstation\
+Retroarch\images\PSX\
+
+**5.** Copy the downloaded images from **“Retroarch\Overlays\GameBezels\PSX\”** to your prepared images folder. You will notice that thebezelproject downloader also downloaded default overlays at **“Retroarch\Overlays\GameBezels\PSX\”**. Copy the **“Sony-PlayStation.png”** to your PSX folder and rename it to **“placeholder.png”**.
+
