@@ -48,7 +48,7 @@ BackgroundImage = "../../../images/PSX/placeholder.png"
 
 **10.** Execute the 1st script **1.cmd”**.
 
-At this point you can move all of the generated **“*.slangp”** to your **”Beetle PSX HW”** preset folder and you are done. The rest of the scripts just generate different colored bezels based in the color pallet of each thebezelproject graphics. If you choose to execute the rest of the scripts, keep in mind that some are doing quite a bit of work, and can take some time, especially for large numbers of graphics like the PSX set. Be patient and don’t forget what script you are running. Run them in order 1 - 5.
+At this point you can move all of the generated **“*.slangp”** to your **”Beetle PSX HW”** preset folder and you are done. The rest of the scripts just generate different colored bezels based on the color pallet of each thebezelproject graphics. If you choose to execute the rest of the scripts, keep in mind that some are doing quite a bit of work, and can take some time, especially for large numbers of graphics like the PSX set. Be patient and don’t forget what script you are running. Run them in order 1 - 5.
 
 When you are done. Just move the newly created
 
