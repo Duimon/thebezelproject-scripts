@@ -21,5 +21,5 @@ There is quite a bit of setup required to use these scripts.
 
 Retroarch\images\PSX\
 
-**5.** Copy the downloaded images from **“Retroarch\Overlays\GameBezels\PSX\”** to your prepared images folder. You will notice that thebezelproject downloader also downloaded default overlays at **“Retroarch\Overlays\GameBezels\PSX\”**. Copy the **“Sony-PlayStation.png”** to your PSX folder and rename it to **“placeholder.png”**.
+**5.** Copy the downloaded images from **“Retroarch\Overlays\GameBezels\PSX\”** to your prepared images folder. You will notice that thebezelproject downloader also downloaded default overlays at **“Retroarch\Overlays\GameBezels\”**. Copy the **“Sony-PlayStation.png”** to your PSX folder and rename it to **“placeholder.png”**.
 
