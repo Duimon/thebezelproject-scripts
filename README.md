@@ -1,5 +1,5 @@
 # thebezelproject-scripts
-Scripts to create shader presets for the HSM Reflection Shader using thebezelproject graphics
+Scripts to create shader presets for the HSM Mega Bezel Reflection Shader using thebezelproject graphics
 
 ## Instructions
 
@@ -10,3 +10,4 @@ and
 * “gsar.exe” [(general search and replace utility)](http://gnuwin32.sourceforge.net/packages/gsar.htm)
 
 There is quite a bit of setup required to use these scripts.
+
