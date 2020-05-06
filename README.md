@@ -17,7 +17,7 @@ There is quite a bit of setup required to use these scripts.
 
 **3.** Follow the installer instructions and download at least one set of retroarch bezels.
 
-**4.** For ease of use I recommend creating an “images” directory within the Retroarch root directory and subdirectories for each system. For these instructions we will assume a folder structure of…
+**4.** For ease of use I recommend creating an “images” directory within the Retroarch root directory, and subdirectories for each system. For these instructions we will assume a folder structure of…
 
 Retroarch\images\PSX\
 
