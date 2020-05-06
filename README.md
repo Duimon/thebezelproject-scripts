@@ -9,7 +9,7 @@ This project makes use of some 3rd party utilities.
 and
 * “gsar.exe” [(general search and replace utility)](http://gnuwin32.sourceforge.net/packages/gsar.htm)
 
-There is quite a bit of setup required to use these scripts. I will assume you have a working retroarch setup and are successfully using the HSM Shader.
+There is quite a bit of setup required to use these scripts, but after doing it once it gets easy😉. I will assume you have a working retroarch setup and are successfully using the HSM Shader.
 
 **1.** Create a temporary installation of Retroarch by copying your existing “working” retroarch folder to a temporary location. Thebezelproject Windows installer will overwrite some key files and break your Retroarch configuration. For these instructions we will assume a temporary installation of **“Retroarch-thebezelproject”**.
 
@@ -51,5 +51,7 @@ BackgroundImage = "../../../images/PSX/placeholder.png"
 The rest of the scripts just generate different colored bezels based on the color pallet of each thebezelproject graphics. If you choose to execute the rest of the scripts, keep in mind that some are doing quite a bit of work, and can take some time, especially for large numbers of graphics like the PSX set. Be patient and don’t forget what script you are running. Run them in order 1 - 5.
 
 When you are finished with the scripts (Either after the first script or all 5 of them), just move all of the generated **“*.slangp”** to your **”Beetle PSX HW”** preset folder and you are done.
+
+You can delete the **”_Beetle PSX HW.slangpOLD”** and repeat the process for all of your systems.
 
 The comments in the **”3.cmd”** script explain how to choose which color you use for the creation of the presets. By default, it uses the second to the least used color in the pallet. You can play with this if you’re fussy 😊.
