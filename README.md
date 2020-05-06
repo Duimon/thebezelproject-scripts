@@ -35,6 +35,8 @@ _(Also not required by the scripts but just makes sense if you are using thebeze
 * [BEZEL & FRAME COLOR] Color Saturation			= 0.00
 * [BEZEL & FRAME COLOR] Color Value (Brightness		= 10.00
 
+_(Should be the default values but make sure they are set this way, the last script will fail otherwise)_
+
 Save a core preset.
 
 **7.** Edit the core preset at **” RetroArch\shaders\presets\Beetle PSX HW\Beetle PSX HW.slangp”**
