@@ -9,4 +9,4 @@ This project makes use of some 3rd party utilities.
 and
 * “gsar.exe” [(general search and replace utility)](http://gnuwin32.sourceforge.net/packages/gsar.htm)
 
-There is quite a bit of setup required to sue these scripts.
+There is quite a bit of setup required to use these scripts.
