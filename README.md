@@ -4,7 +4,7 @@ Scripts to create shader presets for the HSM Mega Bezel Reflection Shader using 
 ## Prerequisites
 
 This project makes use of some 3rd party utilities that are included.
-* “convert.exe” from ImageMagick [(ImageMagick)](https://www.imagemagick.org)
+* ImageMagick [(ImageMagick)](https://www.imagemagick.org) Install using *"ImageMagick-6.7.9-7-Q16-windows-x64-dll.exe"*
 * “sfk.exe” [(Swiss File Knife)](https://sourceforge.net/projects/swissfileknife/)
 and
 * “gsar.exe” [(general search and replace utility)](http://gnuwin32.sourceforge.net/packages/gsar.htm)
