@@ -55,7 +55,7 @@ BackgroundImage = "../../../images/PSX/placeholder.png"
 
 **8.** Run retroarch and adjust the shader parameters to your liking, making sure to use the **[SCALING] Non-Integer Scale %** parameter  to cover the bezel in the existing graphic. Save a core preset.
 
-**9.** Copy the scripts from my repo to your PSX images folder. Replace the **”_Beetle PSX HW.slangp”** with your preset. (Copy your preset to the folder instead of moving it, it will be used as a default in case thebezelproject doesn’t have a graphic for one or more of your ROMs. Make sure it is named **”_Beetle PSX HW.slangp”**) (Use this slangp name when repeating this process for all your systems at this point, it will keep you from needing to edit any scripts)
+**9.** Copy the scripts from my repo to your PSX images folder. Replace the **”_Beetle PSX HW.slangp”** with your preset. (Copy your preset to the folder instead of moving it, it will be used as a default in case thebezelproject doesn’t have a graphic for one or more of your ROMs. Make sure to name your copied preset **”_Beetle PSX HW.slangp”**) (Use this slangp name when repeating this process for all your systems at this point, it will keep you from needing to edit any scripts)
 
 **10.** Execute the 1st script **”_1.cmd”**.
 
